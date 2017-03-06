@@ -1,0 +1,10 @@
+<aura:component >
+	<tr>
+        <th scope="row" data-label="Account Name">
+            <div class="slds-truncate" title="">Account Name Example</div>
+        </th>
+        <td data-label="Active">
+            <div class="slds-truncate" title=""><c.ActiveAccounts_ToggleSwitch /></div>
+        </td>
+    </tr>
+</aura:component>

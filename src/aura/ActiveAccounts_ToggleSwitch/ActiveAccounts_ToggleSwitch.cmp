@@ -1,0 +1,16 @@
+<aura:component >
+    <!-- Component Attributes -->
+    <aura:attribute name="isActive" type="Boolean" />
+    
+    <!-- Component Markup -->
+    <div class="slds-form-element">
+      <label class="slds-checkbox--toggle slds-grid">
+        <input type="checkbox" name="checkbox" aria-describedby="toggle-desc" checked="{!v.isActive}" onclick="{!c.updateActive}"/>
+        <span id="toggle-desc" class="slds-checkbox--faux_container" aria-live="assertive">
+          <span class="slds-checkbox--faux"></span>
+          <span class="slds-checkbox--on">Active</span>
+          <span class="slds-checkbox--off">Inactive</span>
+        </span>
+      </label>
+    </div>
+</aura:component>

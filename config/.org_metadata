@@ -1,0 +1,135 @@
+[
+    {
+        "id": "ApexClass",
+        "type": {
+            "directoryName": "classes",
+            "inFolder": false,
+            "metaFile": true,
+            "suffix": "cls",
+            "xmlName": "ApexClass"
+        },
+        "title": "ApexClass",
+        "xmlName": "ApexClass",
+        "text": "ApexClass",
+        "key": "ApexClass",
+        "level": 1,
+        "hasChildTypes": false,
+        "isFolder": true,
+        "inFolder": false,
+        "cls": "folder",
+        "select": false,
+        "expanded": false,
+        "children": []
+    },
+    {
+        "id": "ApexComponent",
+        "type": {
+            "directoryName": "components",
+            "inFolder": false,
+            "metaFile": true,
+            "suffix": "component",
+            "xmlName": "ApexComponent"
+        },
+        "title": "ApexComponent",
+        "xmlName": "ApexComponent",
+        "text": "ApexComponent",
+        "key": "ApexComponent",
+        "level": 1,
+        "hasChildTypes": false,
+        "isFolder": true,
+        "inFolder": false,
+        "cls": "folder",
+        "select": false,
+        "expanded": false,
+        "children": []
+    },
+    {
+        "id": "ApexPage",
+        "type": {
+            "directoryName": "pages",
+            "inFolder": false,
+            "metaFile": true,
+            "suffix": "page",
+            "xmlName": "ApexPage"
+        },
+        "title": "ApexPage",
+        "xmlName": "ApexPage",
+        "text": "ApexPage",
+        "key": "ApexPage",
+        "level": 1,
+        "hasChildTypes": false,
+        "isFolder": true,
+        "inFolder": false,
+        "cls": "folder",
+        "select": false,
+        "expanded": false,
+        "children": []
+    },
+    {
+        "id": "ApexTrigger",
+        "type": {
+            "directoryName": "triggers",
+            "inFolder": false,
+            "metaFile": true,
+            "suffix": "trigger",
+            "xmlName": "ApexTrigger"
+        },
+        "title": "ApexTrigger",
+        "xmlName": "ApexTrigger",
+        "text": "ApexTrigger",
+        "key": "ApexTrigger",
+        "level": 1,
+        "hasChildTypes": false,
+        "isFolder": true,
+        "inFolder": false,
+        "cls": "folder",
+        "select": false,
+        "expanded": false,
+        "children": []
+    },
+    {
+        "id": "StaticResource",
+        "type": {
+            "directoryName": "staticresources",
+            "inFolder": false,
+            "metaFile": true,
+            "suffix": "resource",
+            "xmlName": "StaticResource"
+        },
+        "title": "StaticResource",
+        "xmlName": "StaticResource",
+        "text": "StaticResource",
+        "key": "StaticResource",
+        "level": 1,
+        "hasChildTypes": false,
+        "isFolder": true,
+        "inFolder": false,
+        "cls": "folder",
+        "select": false,
+        "expanded": false,
+        "children": [
+            {
+                "createdById": "00541000002GUQUAA4",
+                "createdByName": "Jeff Lombard",
+                "createdDate": "2017-03-02T17:21:54.000Z",
+                "fileName": "staticresources/logo.resource",
+                "fullName": "logo",
+                "id": "StaticResource.logo",
+                "lastModifiedById": "00541000002GUQUAA4",
+                "lastModifiedByName": "Jeff Lombard",
+                "lastModifiedDate": "2017-03-02T17:21:54.000Z",
+                "manageableState": "unmanaged",
+                "type": "StaticResource",
+                "leaf": true,
+                "title": "logo",
+                "checked": false,
+                "text": "logo",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            }
+        ]
+    }
+]

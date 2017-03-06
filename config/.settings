@@ -1,0 +1,17 @@
+{
+    "projectName": "Active Accounts",
+    "username": "jefflombardjr+udemy2@gmail.com",
+    "id": "57d9d2b0-01de-11e7-9c2c-3d15ffc7eb15",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://udemylightning-dev-ed.my.salesforce.com",
+    "workspace": "/Users/jeffjr/Documents/mavensmate",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

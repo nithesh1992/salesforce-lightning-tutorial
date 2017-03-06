@@ -1,0 +1,17 @@
+<aura:component >
+	<table class="slds-table slds-table--bordered slds-table--cell-buffer">
+      <thead>
+        <tr class="slds-text-title--caps">
+          <th scope="col">
+            <div class="slds-truncate" title="Account Name">Account Name</div>
+          </th>
+          <th scope="col">
+            <div class="slds-truncate" title="Active">Active</div>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+          <c.ActiveAccounts_AccountComponent />  
+      </tbody>
+    </table>
+</aura:component>
