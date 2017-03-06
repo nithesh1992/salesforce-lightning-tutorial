@@ -19,7 +19,30 @@
         "cls": "folder",
         "select": false,
         "expanded": false,
-        "children": []
+        "children": [
+            {
+                "createdById": "00541000002GUQUAA4",
+                "createdByName": "Jeff Lombard",
+                "createdDate": "2017-03-06T06:57:39.000Z",
+                "fileName": "classes/ActiveAccountsController.cls",
+                "fullName": "ActiveAccountsController",
+                "id": "ApexClass.ActiveAccountsController",
+                "lastModifiedById": "00541000002GUQUAA4",
+                "lastModifiedByName": "Jeff Lombard",
+                "lastModifiedDate": "2017-03-06T06:57:39.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "ActiveAccountsController",
+                "checked": false,
+                "text": "ActiveAccountsController",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            }
+        ]
     },
     {
         "id": "ApexComponent",
