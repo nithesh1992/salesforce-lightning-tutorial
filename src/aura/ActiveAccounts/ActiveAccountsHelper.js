@@ -1,0 +1,5 @@
+({
+	loadAccounts : function(component) {
+
+	}
+})
