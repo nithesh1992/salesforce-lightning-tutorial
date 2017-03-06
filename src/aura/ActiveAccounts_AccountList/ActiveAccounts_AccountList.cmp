@@ -1,4 +1,8 @@
 <aura:component >
+    <!-- Handlers/Attributes -->
+    <aura:handler name="init" value="{!this}" action="{!c.init}" />
+
+    <!-- Markup -->
 	<table class="slds-table slds-table--bordered slds-table--cell-buffer">
       <thead>
         <tr class="slds-text-title--caps">
@@ -11,7 +15,7 @@
         </tr>
       </thead>
       <tbody>
-          <c.ActiveAccounts_AccountComponent />  
+          <c.ActiveAccounts_AccountComponent />
       </tbody>
     </table>
 </aura:component>

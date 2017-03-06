@@ -104,6 +104,40 @@
     {
         "attributes": {
             "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ad410000003gGRCAY"
+        },
+        "Id": "0Ad410000003gGRCAY",
+        "AuraDefinitionBundleId": "0Ab410000001Ak8CAE",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Ab410000001Ak8CAE"
+            },
+            "DeveloperName": "ActiveAccounts_AccountList"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ad410000003gGWCAY"
+        },
+        "Id": "0Ad410000003gGWCAY",
+        "AuraDefinitionBundleId": "0Ab410000001Ak8CAE",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Ab410000001Ak8CAE"
+            },
+            "DeveloperName": "ActiveAccounts_AccountList"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
             "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ad410000003g1WCAQ"
         },
         "Id": "0Ad410000003g1WCAQ",
