@@ -7,5 +7,10 @@
 		<members>ActiveAccounts_ToggleSwitch</members>
 		<name>AuraDefinitionBundle</name>
 	</types>
+	<types>
+		<members>getAccounts</members>
+		<members>ActiveAccountsApex</members>
+		<name>ApexClass</name>
+	</types>
 	<version>34.0</version>
 </Package>
